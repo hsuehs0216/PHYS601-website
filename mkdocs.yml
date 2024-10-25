@@ -27,6 +27,11 @@ theme:
 
       # Palette toggle for dark mode
       - scheme: slate
+        # Color of the top bar
+        primary: blue grey
+        # Link highlight color
+        accent : deep purple
+        
         toggle:
           icon: material/brightness-4
           name: Switch to light mode
