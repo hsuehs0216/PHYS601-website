@@ -22,7 +22,7 @@ theme:
         accent : deep purple
         
         toggle:
-          icon: material/brightness-7 
+          icon: material/toggle-switch 
           name: Switch to dark mode
 
       # Palette toggle for dark mode
@@ -31,9 +31,9 @@ theme:
         primary: blue grey
         # Link highlight color
         accent : deep purple
-        
+
         toggle:
-          icon: material/brightness-4
+          icon: material/toggle-switch-off-outline
           name: Switch to light mode
 
     features:
