@@ -5,7 +5,7 @@ site_url: https://github.com/hsuehs0216/PHYS601-website/ # must have the trailin
 site_author: Sheng-Lung Hsueh (sheng-lung.hsueh@mail.mcgill.ca)
 site_description: This is a website with a summary of my research, outreach involvment, as well as personal interest. 
 copyright: > # should remain a link to the original theme
-  &copy; 2023 Your Name <br>
+  &copy; 2024 Sheng-Lung Hsueh <br>
   <a href="https://github.com/vuquangtrong/mkdocs-material-blog">Blog Theme</a> /
   <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a>
 
