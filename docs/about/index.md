@@ -2,7 +2,7 @@
 
 
 
-Dr. Simpson's scholarly journey reached its zenith at Galactic University, where she completed her Ph.D. in Astrophysics. Her doctoral research centered on the Crab Nebula, an iconic celestial object known for its dynamic behavior. With a keen interest in both observational and theoretical aspects of astrophysics, Dr. Simpson utilized cutting-edge technology and advanced computational models to deepen our understanding of the processes at play within the Crab Nebula.
+Dr. Simpson's sch larly journey reached its zenith at Galactic University, where she completed her Ph.D. in Astrophysics. Her doctoral research centered on the Crab Nebula, an iconic celestial object known for its dynamic behavior. With a keen interest in both observational and theoretical aspects of astrophysics, Dr. Simpson utilized cutting-edge technology and advanced computational models to deepen our understanding of the processes at play within the Crab Nebula.
 
 Throughout her academic career, Dr. Simpson has contributed to numerous publications in reputable astrophysical journals and has presented her findings at international conferences. She is recognized for her meticulous research methodologies and her commitment to advancing our understanding of the universe. As a dedicated educator, Dr. Simpson has also mentored aspiring astrophysicists, fostering the next generation's curiosity and passion for the cosmos.
 
