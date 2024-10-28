@@ -3,7 +3,7 @@
 ![Headshot](./media/IMG_3036.jpeg "Personal photo"){align="left": style="height:150;width:150px"}
 Hello Everyone! My name is Sheng-Lung Hsueh, also go by Steven Hsueh on the daily basis. I am currently a graduate student at McGill University in the Department of Physics and affiliated with Trottier Space Institute ([TSI](https://tsi.mcgill.ca)). I previously studied at the University of Biritsh Columbia and graduated with a Bacholar's degree in Combined Honours in Physics and Astronomy.
 
-My research interests focus on extragalactic astronomy, and more specifically on the evolution of galaxies as well as their properties during different epochs of the Universe. (checking)
+My research interests focus on extragalactic astronomy, and more specifically on the evolution of galaxies as well as their properties during different epochs of the Universe. (checking )
 
 
 
