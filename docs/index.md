@@ -1,12 +1,10 @@
 # Welcome to My Research Page
 
+![Headshot](./media/IMG_3036.jpeg "Personal photo"){align="left": style="height:150;width:150px"}
+Hello Everyone! My name is Sheng-Lung Hsueh, also go by Steven Hsueh on the daily basis. I am currently a graduate student at McGill University in the Department of Physics and affiliated with Trottier Space Institute ([TSI](https://tsi.mcgill.ca)). I previously studied at the University of Biritsh Columbia and graduated with a Bacholar's degree in Combined Honours in Physics and Astronomy.
 
-![Coma cluster](./media/Crab_Nebula.jpg "Crab Nebula"){align="left": style="height:150;width:150px"}
-Welcome to the digital platform of a dedicated physics graduate student committed to unraveling the intricacies of the cosmos. 
-Focused on the exploration of the profound Crab Nebula, a celestial phenomenon steeped in historical fascination, my research endeavors center on the application of advanced astrophysical methodologies and theoretical frameworks. 
-This platform serves as an invitation to accompany me on a scholarly journey into the depths of the universe. 
-Through meticulous investigation, I aim to elucidate the fundamental processes shaping the Crab Nebula, contributing substantively to the broader comprehension of the universe's extraordinary phenomena. 
-I extend a formal welcome to all who wish to engage with the frontiers of astrophysics through the lens of my ongoing research endeavors.
+My research interests focus on extragalactic astronomy, and more specifically on the evolution of galaxies as well as their properties during different epochs of the Universe.
+
 
 
 If you're like to learn more about me, you can find an introduction to [my research](./reasearch/research_index.md), some info on some [recent projects](./projects/project_index.md) and some more info [about me](./about/about.md).
