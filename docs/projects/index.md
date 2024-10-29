@@ -1,6 +1,8 @@
-# Projects
+# Past Projects
 
-Here are some projects that I am working on. 
+Here are some projects that I worked on previously (Will add a summary page later):
 
-- [Python Project](./python_project/python_project.ipynb) is an amazing python project that will allow you to see my coding skills.
-- [Data Project](./data_project/index.md) is an even more amazing project where I share data that I've used.
+- [NCTS Summer Program](./pastproject/NCTS Final Presentation.pdf): Studying the Impact of Cosmic Rays in Circumgalactic Gas Dynamics
+- [UBC Honour Thesis](./pastproject/Thesis Defence.pdf): Constructing an extension of a machine learning algorithm to categorize overlapping compact binary coalescence signals
+- [CASSUM Summer Program](./pastproject/CASSUM Presentation.pdf): A Case study of "The Brick" and its Kinematic Properties
+- [UBC Quiescent Galaxy Project](./pastproject/Composite - ALMA.png): A statistical analysis of a population of quiescent galaxies on their dust continuum contents

@@ -1,10 +1,19 @@
 # Research Interests
 
-Here is a paragraph explaining my research interests, the telescopes that I'm involved in or which I use. 
+This page consists a detailed summary of my current Master's project at McGill University, where I will be studying a group of Brightest Cluster Galaxies (BCGs) and conducting statistical analysis on their gas properties, mass, and star formation rate as well as comparison with previous studied populations and how they fit into the bigger picture that is galaxy evolution throughout the cosmic epochs. 
+
+## What are the Brightest Cluster Galaxies?
+From our current understanding of the cluster evolution, the most massive galaxies in the universe today reside at the centres of [galaxy clusters](https://en.wikipedia.org/wiki/Galaxy_cluster). The centres of galaxy clusters are among the most violent yet least understood regions of the universe, at all redshifts. Their complex nature - which includes the physics of large-scale [gas cooling](https://en.wikipedia.org/wiki/Cooling_flow), [star formation](https://www.cfa.harvard.edu/research/topic/star-formation) (SF), [Active Galactic Nuclei]((https://en.wikipedia.org/wiki/Active_galactic_nucleus)) (AGN) feedback, and [galaxy mergers](https://www.cfa.harvard.edu/research/topic/galaxies-merging-and-interacting) and interactions - make them key laboratories for hierarchical processes of structure growth. A cluster core contains several important components. Sitting at the bottom of the gravitational potential well of most clusters is a single massive galaxy, known as the Brightest Cluster Galaxy (BCG). BCGs are highly uniform in properties such as luminosity, metallicity and surface brightness profile, and are distinct from the general galaxy population. They are surrounded by a hot Intracluster Medium ([ICM](https://en.wikipedia.org/wiki/Intracluster_medium)) which, in the absence of AGN heating, may cool into the centre.
 
 
-## Recent Highlights
- - [Awesome Paper](./highlights/awesome_paper/index.md)
- - [Multiwavelength Paper](./highlights/large_mwl_paper/index.md)
+## Why do we study them?
+The formation and evolution of BCG and its ICM throughout cosmic time is not fully understood, and it has been puzzling the astronomers for many years. Star formation in the BCGs has thought to be [in-situ](https://www2.mpia-hd.mpg.de/homes/stellarhalos2018-loc/sh2018/slides/04.07.Pillepich.pdf) beyond a redshift value of 0.2. At lower redshift, the correlation bewtween the star formation rate and cooling time in some clusters indicates that BCGs are fed by large scale gas cooling, but this is very rare. As we go to higher redshift, however, the correlation becomes less clear. To understand this relation better becomes the main drive of this project.
 
-A full list of publications can be found [here](./all_publications.md).
+## Observation Data from ALMA and Project Objective
+In this project, My supervisor Dr. Tracy Webb has gathered a total of 33 BCGs with spectroscopic redshift spanning between 0.2 and 1.2 using the [Atacama Large Millimeter/submillimeter Array](https://almascience.eso.org) (ALMA) where the targets are observed in several different spectral windows. These unresolved observation of the [CO(2-1)](http://astro.vaporia.com/start/co.html) line for these new BCGs coupling with the previous population enable us to measure the total molecular gas reservoir within the central galaxies of young clusters. We aim to systematically expand the existing molecular gas studies of high redshift BCGs with ALMA, and facilitate the first statistical study of gas deposition onto BCGs, and its relation to the stellar mass growth of these important systems. Form this, we hope to employ constraints to construct a narrative of BCG stellar mass growth.
+
+## Related Studies and Papers
+These are some of the related studies for the my research since I have no publications as of now:
+
+ - [Previous BCG CO Statistical Analysis](https://iopscience.iop.org/article/10.3847/2041-8213/abeb6f)
+ - [SpARCS1049+56 - high SFR Galaxy Cluster](https://esahubble.org/news/heic1519/)
