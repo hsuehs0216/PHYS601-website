@@ -23,7 +23,7 @@ In my final school year, I was working with [Dr. Allison Man](https://phas.ubc.c
 
 Since joining the McGill community, I have been involved with outreach activities such as public talks. Public talks are event where expert of the field can give a presentation or have a panel where public can come in to listen and ask questions about astrophysics subjects. I have been consistently volunteered for the this event, and planning to be involved in more outreach activities in the future.
 
-Outside of astrophysics, I enjoy travelling to different places around the world. (A link will be here for the photos and such, placeholder for now)
+Outside of astrophysics, I enjoy travelling to different places around the world. You can find some of my travel photos [here](./travel.md) as well as my current future travel plans.
 
 
 
